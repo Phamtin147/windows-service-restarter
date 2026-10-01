@@ -1,0 +1,8 @@
+# Visual Studio & Temporary files
+.vs/
+*.obj
+*.pdb
+*.tmp
+
+# Keep .exe so users can directly download release if needed
+!WinLagFixer.exe
